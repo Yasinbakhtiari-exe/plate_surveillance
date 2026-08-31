@@ -228,7 +228,7 @@ while True:
         "Plate OCR",
         frame
     )
-
+    # نغییرات مهم ولی کامل نیست مپلا
 
     key = cv2.waitKey(1) & 0xFF
 
